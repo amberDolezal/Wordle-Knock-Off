@@ -1,0 +1,17 @@
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.csproj.AssemblyReference.cache
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.Form1.resources
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.csproj.GenerateResource.cache
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.AssemblyInfoInputs.cache
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.AssemblyInfo.cs
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.csproj.CoreCompileInputs.cache
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\bin\Debug\net6.0-windows\DolezalAA2.exe
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\bin\Debug\net6.0-windows\DolezalAA2.deps.json
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\bin\Debug\net6.0-windows\DolezalAA2.runtimeconfig.json
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\bin\Debug\net6.0-windows\DolezalAA2.dll
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\bin\Debug\net6.0-windows\DolezalAA2.pdb
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.dll
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\refint\DolezalAA2.dll
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.pdb
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\DolezalAA2.genruntimeconfig.cache
+C:\Users\macmi\OneDrive\Documents\CS 3020\DolezalAA2\DolezalAA2\obj\Debug\net6.0-windows\ref\DolezalAA2.dll
